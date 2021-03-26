@@ -13,5 +13,6 @@ These are seperate GIT repositories, that are maintained on their own. Once a ne
 NOTE: This project does not use templating/rendering/building software like Gulp or Grunt, but the submodules do. Read the matching readme.md file corresponding with the module, if you want to edit it ( and or commit changes ).
 
 
+Thanks [Arthesian](https://bitbucket.org/Arthesian) for his work :)
 
-[source_code.txt](https://github.com/HideakiAtsuyo/wallpaper-module-visualizer/blob/main/source_code.txt)
+[source_code.txt](https://github.com/HideakiAtsuyo/wallpaper-module-visualizer/blob/main/source_code.txt)<br>[Repo Original](https://bitbucket.org/Arthesian/wallpaper-module-visualizer)
