@@ -11,3 +11,7 @@ This project is build using GIT Modules. This project uses the following Modules
 These are seperate GIT repositories, that are maintained on their own. Once a new version is released of these modules, it is possible to easily pull the changes into this project.
 
 NOTE: This project does not use templating/rendering/building software like Gulp or Grunt, but the submodules do. Read the matching readme.md file corresponding with the module, if you want to edit it ( and or commit changes ).
+
+
+
+[source_code.txt](https://github.com/HideakiAtsuyo/wallpaper-module-visualizer/blob/main/source_code.txt)
